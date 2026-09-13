@@ -24,11 +24,10 @@ The **Elephant** router acts as the central hub, connecting to three tribes — 
 
 | File | Description |
 | --- | --- |
-| `Animal_kingdom_Group1105.pkt` | Final Cisco Packet Tracer network file |
-| `Animal_kingdom_Group1105_small_update.pkt` | Minor-update / working version of the Packet Tracer file |
+| `Animal_kingdom.pkt` | Final Cisco Packet Tracer network file |
+| `Animal_kingdom_small_update.pkt` | Minor-update / working version of the Packet Tracer file |
 | `Report.docx` | Full project report — assumptions, IP tables, DHCP/Web/DNS/Email config, router commands |
 | `Labeled_Topology_Diagram.docx` | Labeled network topology diagram |
-| `Work_Distribution.docx` | Team member roles and task breakdown |
 | `images/topology.png` | Exported topology diagram |
 | `images/vlsm-tree.png` | Exported VLSM subnetting tree |
 
@@ -163,14 +162,5 @@ The **Elephant** router acts as the central hub, connecting to three tribes — 
    ```bash
    git clone <repo-url>
    ```
-3. Open `Animal_kingdom_Group1105.pkt` in Packet Tracer to explore the full simulation, or `Animal_kingdom_Group1105__small_update_.pkt` for the latest working revision.
+3. Open `Animal_kingdom.pkt` in Packet Tracer to explore the full simulation, or `Animal_kingdom_small_update_.pkt` for the latest working revision.
 4. Refer to `Report.docx` for full router configuration commands and design rationale.
-
-## Team / Work Distribution
-
-| Student ID | Member Name | Focus |
-| --- | --- | --- |
-| 19101144 | Lasania Asadullah | VLSM Tree, IP Tables |
-| 22299030 | Siam Khandaker | Routers Configuration |
-| 22301363 | Syed Ashiqur Rahman | Web, DHCP, Email, DNS Configurations |
-| 24241117 | Md. Toushik Rumi | Topology Design |
